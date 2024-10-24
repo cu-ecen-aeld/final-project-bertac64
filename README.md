@@ -6,5 +6,5 @@
 [Schedule](https://github.com/cu-ecen-aeld/final-project-bertac64/wiki/Final-Project-Assignment-Schedule)
 
 ---
-Link to the Application repository: https://github.com/bertac64/final-project-assignments-bertac64
+Link to the Application repository: https://github.com/bertac64/final-project-repository-bertac64
 
